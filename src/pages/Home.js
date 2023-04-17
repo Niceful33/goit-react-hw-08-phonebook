@@ -17,10 +17,10 @@ export default function Home() {
   return (
     <CustomBox>
       <Typography
-        color="#3A8E9D "
+        color="#CF6A24  "
         component="h1"
         variant="h3"
-        sx={{ mt: '50px', fontWeight: '700' }}
+        sx={{ mt: '50px', fontWeight: '700', textTransform: 'uppercase' }}
       >
         phonebook
       </Typography>

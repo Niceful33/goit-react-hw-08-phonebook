@@ -10,9 +10,9 @@ const StyledAppBar = styled(AppBar)`
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  height: 40px;
+  height: 60px;
   padding: 0 30px;
-  background-color: #000;
+  background-color: #1d57a7;
 `;
 
 export const AppBarComponent = () => {

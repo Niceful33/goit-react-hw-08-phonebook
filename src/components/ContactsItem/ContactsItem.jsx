@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types';
 import { Button, ListItem, ListItemText } from '@mui/material';
 
 const ContactsListItem = ({ id, name, number, onDelete }) => {
@@ -27,10 +26,3 @@ const ContactsListItem = ({ id, name, number, onDelete }) => {
 };
 
 export default ContactsListItem;
-
-ContactsListItem.propTypes = {
-  id: PropTypes.string,
-  name: PropTypes.string,
-  number: PropTypes.string,
-  onDelete: PropTypes.func,
-};
