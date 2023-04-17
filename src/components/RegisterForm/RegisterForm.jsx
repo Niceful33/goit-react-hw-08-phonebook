@@ -50,23 +50,3 @@ const RegisterForm = () => {
 };
 
 export default RegisterForm;
-
-// email: 'qwertyui@qwe.co';
-// name: 'qwertyui';
-// password: 'qwertyui123';
-
-// zxcvbn@mail.nd
-// zxcvbn123
-
-// dfghjkjh@bgh.liu
-// defrgth456
-
-// mail:  fbsdfbsbsdb@fdbf.etew
-// password:  dsvefgegvefgevbds
-
-// aggrehrgrehbs@mail.com
-// examplepwrd12345
-
-//  sdgsrahshrh@mail.com
-//  fnrfhbsdgeg
-//

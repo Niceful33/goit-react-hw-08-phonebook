@@ -7,7 +7,7 @@ const CustomBox = styled(Box)`
   justify-content: center;
   top: 42vh;
   left: 35vw;
-  rotate: -5deg;
+
   @media screen and (max-width: 600px) {
     left: 15vw;
   }
@@ -17,10 +17,10 @@ export default function Home() {
   return (
     <CustomBox>
       <Typography
-        color="#800080"
+        color="#3A8E9D "
         component="h1"
         variant="h3"
-        sx={{ mt: '50px', fontWeight: '500' }}
+        sx={{ mt: '50px', fontWeight: '700' }}
       >
         phonebook
       </Typography>
